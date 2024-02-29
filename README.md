@@ -1,4 +1,4 @@
-# 허두원 세번째 팀 프로젝트 : Car-culator
+# 최웅렬 세번째 팀 프로젝트 : Car-culator
 
 ### [ 이미지 분석 AI 기반 차량관리 플랫폼 ](https://www.car-culator.com/)
 
