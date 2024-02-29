@@ -2,7 +2,7 @@
 
 ### [ 이미지 분석 AI 기반 차량관리 플랫폼 ](https://www.car-culator.com/)
 
-![image](https://github.com/choiungryeol/images/tree/main/carculator/main.png).
+![image](https://github.com/doowon13/Car-culator/assets/83566946/bd1fe9d4-3273-490b-81a6-39cd534ae6a3).
 
 ## 프로젝트 담당 역할
 > * 데이터 베이스 설계
