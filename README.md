@@ -4,10 +4,16 @@
 
 ![image](https://github.com/choiungryeol/images/tree/main/carculator/main.png).
 
-## 프로젝트 포트폴리오
-### [ 포트폴리오 링크  ](https://www.canva.com/design/DAF4ntzBCwg/g1QsskCNtJSf3rMiwx3INw/view?utm_content=DAF4ntzBCwg&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel) ← Click!
-
-
+## 프로젝트 담당 역할
+> * 데이터 베이스 설계
+> * 정비 업체 공공데이터 Parser 개발 후 DB에 정비 업체 데이터 추가
+> * 위도 경도 데이터 이용으로 내 위치 주변 반경 4km 이내 정비업체 목록 및 상세 정보 출력
+> * 로그인 기능 구현(홈페이지, 카카오, 네이버, 깃허브, 구글)
+> * Spring Security와 JWT를 활용한 인증/인가 구현
+> * 회원 가입 기능 구현
+> * 관리자 업체 승인/거절 페이지 기능 구현
+> * 관리자 회원 관리 페이지 기능 구현
+> * 사용자/업체 마이페이지 기능 구헌(비밀번호 변경, 나의 정보 조회 등)
 
 ## 프로젝트 기능
 
