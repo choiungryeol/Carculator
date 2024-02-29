@@ -2,7 +2,7 @@
 
 ### [ 이미지 분석 AI 기반 차량관리 플랫폼 ](https://www.car-culator.com/)
 
-![image](https://github.com/choiungryeol/Car-culator/main.png)
+![image](https://github.com/choiungryeol/images/tree/main/carculator/main.png).
 
 ## 프로젝트 포트폴리오
 ### [ 포트폴리오 링크  ](https://www.canva.com/design/DAF4ntzBCwg/g1QsskCNtJSf3rMiwx3INw/view?utm_content=DAF4ntzBCwg&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel) ← Click!
