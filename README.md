@@ -71,7 +71,7 @@
 </div>
 </details>
 
-### AI를 활용한 차량 손상도에 따른 견적제공 기능
+### 🧠 AI를 활용한 차량 손상도에 따른 견적제공 기능
 > * Ultralytics의 YOLO v8과 AI Hub의 Open DataSet을 사용하여 차량 이미지에서 손상된 부분을 판독하여 견적을 내주는 서비스를 제공합니다.
 
 <details>
